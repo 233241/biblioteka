@@ -1,0 +1,32 @@
+C:\Users\root\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Biblioteka.csproj.GenerateResource.Cache
+C:\Users\root\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\root\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\root\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\root\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\root\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Biblioteka.Form_okno_glowne.resources
+C:\Users\root\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Biblioteka.Form_dodaj_autora.resources
+C:\Users\root\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Biblioteka.Form_dodaj_czytelnika.resources
+C:\Users\root\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Biblioteka.Form_dodaj_egzemplarz.resources
+C:\Users\root\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Biblioteka.Form_dodaj_ksiazke.resources
+C:\Users\root\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Biblioteka.Form_Logowanie.resources
+C:\Users\root\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Biblioteka.Form_zakoncz_wypozyczenie.resources
+C:\Users\root\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\root\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Biblioteka.csprojResolveAssemblyReference.cache
+C:\Users\root\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Biblioteka.Form_dodaj_bibliotekarza.resources
+C:\Users\root\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Biblioteka.Properties.Resources.resources
+C:\Users\root\Desktop\Michal_Przystupa_233241\kod źródłowy\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\root\Desktop\Michal_Przystupa_233241\kod źródłowy\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\root\Desktop\Michal_Przystupa_233241\kod źródłowy\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\root\Desktop\Michal_Przystupa_233241\kod źródłowy\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\root\Desktop\Michal_Przystupa_233241\kod źródłowy\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\root\Desktop\Michal_Przystupa_233241\kod źródłowy\WindowsFormsApplication2\obj\Debug\Biblioteka.csprojResolveAssemblyReference.cache
+C:\Users\root\Desktop\Michal_Przystupa_233241\kod źródłowy\WindowsFormsApplication2\obj\Debug\Biblioteka.Form_dodaj_bibliotekarza.resources
+C:\Users\root\Desktop\Michal_Przystupa_233241\kod źródłowy\WindowsFormsApplication2\obj\Debug\Biblioteka.Form_okno_glowne.resources
+C:\Users\root\Desktop\Michal_Przystupa_233241\kod źródłowy\WindowsFormsApplication2\obj\Debug\Biblioteka.Form_dodaj_autora.resources
+C:\Users\root\Desktop\Michal_Przystupa_233241\kod źródłowy\WindowsFormsApplication2\obj\Debug\Biblioteka.Form_dodaj_czytelnika.resources
+C:\Users\root\Desktop\Michal_Przystupa_233241\kod źródłowy\WindowsFormsApplication2\obj\Debug\Biblioteka.Form_dodaj_egzemplarz.resources
+C:\Users\root\Desktop\Michal_Przystupa_233241\kod źródłowy\WindowsFormsApplication2\obj\Debug\Biblioteka.Form_dodaj_ksiazke.resources
+C:\Users\root\Desktop\Michal_Przystupa_233241\kod źródłowy\WindowsFormsApplication2\obj\Debug\Biblioteka.Form_Logowanie.resources
+C:\Users\root\Desktop\Michal_Przystupa_233241\kod źródłowy\WindowsFormsApplication2\obj\Debug\Biblioteka.Form_zakoncz_wypozyczenie.resources
+C:\Users\root\Desktop\Michal_Przystupa_233241\kod źródłowy\WindowsFormsApplication2\obj\Debug\Biblioteka.Properties.Resources.resources
+C:\Users\root\Desktop\Michal_Przystupa_233241\kod źródłowy\WindowsFormsApplication2\obj\Debug\Biblioteka.csproj.GenerateResource.Cache
